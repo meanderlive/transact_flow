@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612293166812",
+    "project_id": "transact-flow-61935",
+    "storage_bucket": "transact-flow-61935.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612293166812:android:cb5cb33b88079941605619",
+        "android_client_info": {
+          "package_name": "com.example.transact_flow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-aowsF8YIbN1r4agsAGTAR6RWzMkQkKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
